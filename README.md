@@ -1,16 +1,5 @@
 START ATIN LA AW ASPĞDALSĞÜDAPLSDÜADAĞSPDAÜDPAĞSDL
 https://github.com/BaroSouS
-https://github.com/BaroSouS
-https://github.com/BaroSouS
-https://github.com/BaroSouS
-https://github.com/BaroSouS
-https://github.com/BaroSouS  
-https://github.com/BaroSouS
-https://github.com/BaroSouS
-https://github.com/BaroSouS
-https://github.com/BaroSouS
-https://github.com/BaroSouS
-https://github.com/BaroSouS
  # BOTTAN GÖRSELLER;
 
 ![setup2](https://user-images.githubusercontent.com/103540837/192985153-030b3177-0c5e-4d7a-8aa2-3b8519f7f416.png)
