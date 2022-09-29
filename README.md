@@ -13,7 +13,8 @@ https://github.com/BaroSouS
 https://github.com/BaroSouS
  # BOTTAN GÖRSELLER;
 
-# https://cdn.discordapp.com/attachments/1020437811427545088/1024959105221267516/unknown.png
-# https://cdn.discordapp.com/attachments/1020437811427545088/1024959166663643189/unknown.png
-# https://cdn.discordapp.com/attachments/1020437811427545088/1024960613585256488/unknown.png
-# https://cdn.discordapp.com/attachments/1020437811427545088/1024961179686277160/unknown.png
+
+# setup2](https://user-images.githubusercontent.com/103540837/192983757-ecdb67b1-47fc-4482-8ce1-f4cfa1319efd.png)
+# setup1](https://user-images.githubusercontent.com/103540837/192983763-2c6bebb2-5d37-4e42-a2bb-87c38ecbe7f7.png)
+# botkurulum](https://user-images.githubusercontent.com/103540837/192983766-484ca60b-f259-44f4-a9aa-7d14d03fe2dc.png)
+# setup orn](https://user-images.githubusercontent.com/103540837/192983770-d630f6ea-0e29-4380-8905-9cb2132c8b67.png)
